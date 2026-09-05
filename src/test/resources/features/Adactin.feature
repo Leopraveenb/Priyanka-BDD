@@ -1,5 +1,5 @@
 Feature: 
-             Validate AdactinBooking System
+                                   Validate AdactinBooking System
 Scenario Outline: 
               Complete booking session of the hotel and validate the next page
   Given To launch the Url
