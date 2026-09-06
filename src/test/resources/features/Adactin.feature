@@ -1,4 +1,4 @@
-Feature: 
+Feature:
              Validate AdactinBooking System
 Scenario Outline: 
               Complete booking session of the hotel and validate the next page
